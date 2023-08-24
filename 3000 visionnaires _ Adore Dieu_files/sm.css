@@ -1,0 +1,90 @@
+@media (max-width: 991px) {
+	.container {width: 100%;}
+	.middle_txt_apps {font-size: 28px;}
+	.content_slider {padding: 70px 21% 177px;}
+	.title_slider a {
+		font-size: 35px;
+    	line-height: 40px;
+	}
+	#playlist_h_video li .at_list_video {padding: 15px 18px;}
+	.playlist_video li:hover .title_playlist_video {font-size: 13px;}
+	.category_box li a {
+	    margin-bottom: 8px;
+	    padding: 7px 10px 7px 35px;
+	    background-position: 12px 7px;
+	}
+	.more_cat_home_featered .top_more_img_featered img {height: auto;}
+	.img_all_cat_more img {height: 80px;}
+	.prisna-social-counter-value {font-size: 16px;}
+	.prisna-social-counter-unit {font-size: 12px;}
+	.inner_socialize_footer {background: #e8c100; padding-top: 0; padding-bottom: 10px;}
+	.socialize_footer p {position: static; color: #061423; padding-top: 20px;}
+	.socialize_footer ul {padding-left: 0;}
+	.socialize_footer li:first-child {margin-left: 0;}
+	.socialize_footer li a {color: #061423;}
+	.copyright {padding-top: 33px;}
+	.single_page img {max-width: 100%; height: auto;}
+	.banner_title {overflow: hidden;}
+	.banner_title img {width: auto; height: 230px; }
+	.title_single {font-size: 25px;}
+	.bread_crumb ul li a, .bread_crumb ul li span {font-size: 11px;}
+	.title_cat {font-size: 20px;}
+	.inner_item_p_c h3 {font-size: 16px;}
+	.inner_all_cat_dropdown h5 a, .navbar_menu .inner_all_cat_dropdown h5 a:hover , .int_page .txt_all_cat_more h5 a {font-weight: 600;}
+	.inner_left_top_footer p {padding-bottom: 10px; margin-bottom: 30px;}
+	.bread_crumb {bottom: 0; min-height: auto;}
+	.bread_crumb ul {padding: 13px 10px 6px;}
+	.admin_user_top li.doante_li {
+		display: block;
+		margin: 10px 0;
+	}
+
+
+
+
+
+
+}
+
+@media (max-width: 910px) {
+	.navbar_menu > li > a, .wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a {padding: 12px 0;}
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal.wpmm-askins-wrapper ul.wpmm-mega-wrapper > li.menu-item-has-children.current-menu-item > a:before , 
+	.navbar_menu li a:hover:after, .navbar_menu li a:focus:after, .navbar_menu li:hover a.dropdown-toggle:after, .navbar_menu li a.dropdown-toggle.current:after, .wp-megamenu-main-wrapper.wpmega-clean-white.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li:hover > a:before, .wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li.current-menu-item a:after {display: none;}
+	.menu-item-type-widget .featered_menu .inner_featered_menu .txt_featered_menu {position: static;}
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap .wpmm-sub-menu-wrapper {padding: 0;}
+	.wp-megamenu-main-wrapper.wpmega-clean-white.wpmm-orientation-horizontal ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap {padding-top: 0;}
+	
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper li .wpmm-sub-menu-wrap {
+		height: auto;
+	}
+	.navbar_menu li, .wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li {
+		padding-left: 0;
+	}
+	.wpmm-sub-menu-wrap ul > li {margin-bottom: 0;}
+	.navbar_menu li a.dropdown-toggle:before, 
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal.wpmm-askins-wrapper ul.wpmm-mega-wrapper > li.menu-item-has-children > a:after, 
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal.wpmm-askins-wrapper ul.wpmm-mega-wrapper > li.menu-item-has-children.current-menu-item > a:after ,
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal.wpmm-askins-wrapper ul.wpmm-mega-wrapper > li.menu-item-has-children > a.clicked:after, 
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal.wpmm-askins-wrapper ul.wpmm-mega-wrapper > li.menu-item-has-children.current-menu-item > a.clicked:after {
+		right: 0;
+		font-size: 22px;
+		height: 12px;
+		width: 24px;
+		font-weight: 700;
+	}
+	.navbar_menu > li > a:hover , 
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a:hover ,
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal.wpmm-askins-wrapper ul.wpmm-mega-wrapper > li.menu-item-has-children.current-menu-item > a {
+		color: #f0395a;
+	}
+
+}
+@media (max-width: 880px) {
+	.btn_citation_left .btn , .cat_featered_tab .btn {padding: 5px 8px 4px; font-size: 10px;}
+	.txt_featered_tab h4 a {font-size: 16px;}
+	.right_cat_home_featered .subtitle_secondary {font-size: 12px;}
+	.right_cat_home_featered .subtitle_secondary small {font-size: 10px;}
+	.content_nav_tab .inner_all_cat_dropdown h5 {padding-top: 0;}
+	.txt_all_cat_more h5 {margin-top: 0;}
+}
+

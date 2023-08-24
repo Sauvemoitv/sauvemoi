@@ -1,0 +1,33 @@
+@media (min-width: 1171px) {	
+	.container {width: 1170px;}
+	.all_adress_contact {padding-left: 0; padding-right: 0;}
+
+}
+@media (max-width: 1250px) {
+	
+}
+@media (max-width: 1170px) {
+	.container {width: 100%;}
+	.social_top , .admin_user_top {padding-left: 15px; padding-right: 15px; }
+
+	.socialize_footer p {
+		left: 0;
+		font-size: 11px;
+		padding-top: 30px;
+	}
+
+
+}
+@media (max-width: 1024px) {
+	.navbar_menu li, .wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li {padding-left: 20px;}
+	.navbar_menu > li > a, 
+	.wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li > a , 
+	.wpmm_megamenu .wp-megamenu-main-wrapper ul ul li a, .wp-megamenu-main-wrapper.wpmm-orientation-horizontal ul.wpmm-mega-wrapper > li.current-menu-item a, .wp-megamenu-main-wrapper.wpmm-orientation-vertical ul.wpmm-mega-wrapper > li.current-menu-item a {
+		font-size: 13px;
+		font-weight: 600;
+	}
+	.support_apps {	width: 100%; }
+	.support_apps li {width: 50%;}
+	.support_apps li a {width: 100%;}
+}
+

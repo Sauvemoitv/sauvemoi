@@ -1,0 +1,24 @@
+#campagne-modal .about_campagne {
+    padding: 0px;
+    border: none;
+    border-top: none;
+    -webkit-box-shadow: 0 0 0 0 transparent;;
+    box-shadow: 0 0 0 0 transparent;
+}
+
+#campagne-modal button.close{
+    position: absolute;
+    right: 20px;
+    margin-top: 10px;
+    z-index: 1000;
+    opacity: 1;
+}
+
+#campagne-modal .box_btn_donate_right {
+    padding-top: 60px;
+}
+
+#campagne-modal .wd-proj-don .stats-data.item3 {
+    padding-left: 0;
+    padding-top: 10px;
+}
